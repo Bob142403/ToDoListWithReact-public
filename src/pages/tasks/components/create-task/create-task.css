@@ -1,0 +1,26 @@
+.input {
+  border-radius: 8px;
+  border: 1.4px solid #001aff;
+  height: 30px;
+  width: 100%;
+  margin: 10px;
+  padding-left: 8px;
+  font-size: 17px;
+  outline: none;
+}
+.create {
+  padding: 10px;
+  display: flex;
+}
+.create-task {
+  border-radius: 8px;
+  color: #001aff;
+  width: 80px;  
+  margin: 10px 10px 10px 0;
+  border: 1.2px solid #001aff;
+  align-items: center;
+  display: flex;
+  user-select: none;
+  cursor: pointer;
+  justify-content: center;
+}

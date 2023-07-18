@@ -1,0 +1,33 @@
+.edit-text-item {
+  margin: 10px;
+  height: 30px;
+  padding-left: 8px;
+  font-size: 17px;
+  border: 1.4px solid #fff;
+  border-radius: 8px;
+  font-family: cursive;
+    text-align: left;
+    outline: none;
+}
+.text-item {
+  margin: 10px;
+  height: 30px;
+  padding-left: 8px;
+  font-size: 17px;
+  border: 1.4px solid #fff;
+  border-radius: 8px;
+  font-family: cursive;
+  text-align: left;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  align-items: center;
+}
+.img {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  margin: 10px;
+}
